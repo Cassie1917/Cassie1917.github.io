@@ -1,0 +1,112 @@
+body {
+background-image: url("wawar.png");
+}
+
+h1 {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
+
+
+h2 {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: pink;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center1 {
+	margin-left: 2px;
+}
+
+.column {
+  float:left;
+  padding: 5px;
+}
+
+.column1 {
+  float:left;
+  padding: 0px;
+}
+
+.row::after {
+  content:"";
+  clear: both;
+  display: table;
+ }
+ 
+ @font-face { font-family: VCR_OSD_MONO; src: url('VCR_OSD_MONO_1.001.ttf'); }
+ 
+ .button {
+ 	border: 5px solid #693459;
+ 	color: #f5b0e0;
+ 	padding: 10px 26px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	display: inline-block;
+ 	font-size: 16px;
+ 	margin: 4px 2px;
+ 	cursor: pointer;
+ }
+ 
+   .button:hover {
+  	background-color:#db9cc8;
+  	cursor: pointer;
+  }
+ 
+ .button1 {background-color: #f5b0e0;} 
+ 	
+  .button2 {
+  	background-color: #f5b0e0;
+  	margin-left: 2px;
+  }
+ 
+ .sidenav {
+ 	height: 768px;
+ 	width: 350px;
+ 	position: fixed;
+ 	z-index: 1;
+ 	top: 0;
+ 	right: 0;
+ 	margin-top: 15px;
+ 	margin-right: 10px;
+ 	background-image: url("sidebar.png");
+ 	border: 5px solid #693459;
+ 	overflow-x: hidden;
+ 	padding-top: 110px;
+ }
+ 
+ .sidenav1 {
+ 	height: 100;
+ 	width: 250;
+ 	text-align: center;
+ 	position: fixed;
+ 	z-index: 1;
+ 	top: 0;
+ 	right: 0;
+ 	margin-top: 10px;
+ 	margin-right: 10px;
+ 	background-color: #f5b0e0;
+ 	border: 5px solid #693459;
+ 	overflow-x: hidden;
+ 	padding-top: 20px;
+ }
+ 
+  .pic1{ 
+ position: relative; 
+ z-index: 1; 
+ top: 0; 
+ left: 0; 
+ } 
+ .pic2{ 
+ position: absolute; 
+ z-index: 2; 
+ top: 0; 
+ left: 0; 
+ } 
+ 
