@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<style>
+@font-face { font-family: VCR_OSD_MONO; src url( 'VCR_OSD_MONO_1.001.ttf'); }
+h1 {
+	font-family: VCR_OSD_MONO
+}
+</style>
+<link rel="stylesheet" href="Bk-bYnBY.css">
+</head>
+<body>
+
+<div class="row">
+<div class="column1"> 
+<img src="barspink.gif"> </div>
+<div class="column1"> 
+<img src="barspink.gif"> </div>
+<div class="column1"> 
+<img src="barspink.gif"> </div>
+</div>
+
+<div class="row">
+<div class="column">
+<a href="abtme.html">
+<img src="about me.png" width="168px" height= "41px" style="border: 5px solid #693459"> </div>
+<div class="column">
+<a href="socmedia.html">
+<img src="social medias.png" width="232px" height= "41px" style="border: 5px solid #693459"> </div>
+<div class="column">
+<a href="arts.html">
+<img src="arts.png" width="116px" height= "41px" style="border: 5px solid #693459"> </a> </div> 
+<div class="column">
+<a href="cutes.html"> 
+<img src="cutes.png" width="168px" height= "41px" style="border: 5px solid #693459"></a> </div>
+<div class="column">
+<a href="com.html">
+<img src="commune.png" width="219px" height= "41px" style="border: 5px solid #693459"> </div> </a>
+<div class="column">
+<a href="coNtext.html">
+<img src="context.png" width="361px" height= "41px" style="border: 5px solid #693459"> </a> </div>
+</div>
+
+<div class="sidenav">
+
+<div class="row">
+<div class="column">
+<img src="sparkles.gif" class="pic2">
+</div>
+<div class="column">
+<img src="sparkles2.gif" class="pic2">
+</div>
+</div>
+<a href="actexts.html">
+<img src="academic.png" class="center1 pic1" style="border: 5px solid #693459" width="336px" height="90px">
+</a>
+<a href="comtexts.html">
+<img src="communist.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="blushy.html">
+<img src="blushy.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="cutetext.html">
+<img src="cuteness.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="histext.html">
+<img src="historic.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="nartext.html">
+<img src="narrative.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="misctext.html">
+<img src="misc.png" class="center1 pic1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+<a href="Bk-nYnBY.html">
+<img src="back home.png" class="center1" style="border: 5px solid #693459" width="336px" height="90px"> </a>
+</div>
+</div>
+
+<div style="background-image: url('babar.png');width:1500px;height:800px;border:5px solid #693459">
+<center> <img src="rose3.gif"> <p style="font-family:VCR_OSD_MONO; color:#693459;font-size:68px"> "Siege of Bamborough"-John Warkworth(?), 1464 (War of Roses)</p> 
+<img src="knight.gif" style="border:5px solid #693459"> </center>
+
+<p style="font-family:VCR_OSD_MONO; color:#693459;"> <b> Also, the 23rd June, my said lord of Warwick, with his forces, came before the castle of Alnwick, and had it delivered by appointment; and also the castle of Dunstanborough, where my said lord kept the feast of St John the Baptist.<br> <br>
+
+Also, my said lord of Warwick, and his brother the Earl of Northumberland, the 25th day of June, laid siege unto the Castle of Bamborough, there being within Sir Ralph Grey, with such forces as attended him to keep the said castle against the power of the king and my said lord. And then my lord lieutenant had ordained all the king's great gun, and London the second gun of iron; which so belaboured the place that stones of the walls flew into the sea. Dysyon, a brazen gun of the king's, smote through Sir Ralph Grey's chamber many times. Edward and Richard Bombartell and other men of the king's ordnance with men at arms and archers, won the castle of Bamborough by assault, in spite of Sir Ralph Grey, and took him, and brought him to the king at Doncaster, and there he was executed in this form as follows. My lord of Worcester, Constable of England, sitting in judgment... saying to him: "Then, Sir Ralph Grey, this shall be thy penance, - thou shalt go upon thy feet to the town's end, and there thou shalt be laid down and drawn to a scaffold made for thee, and thou shalt have thy head smitten off they body; thy body to be buried in the friary, thy head where it may please the king." 
+
+ </p>
+</div>
+
+<div class="row">
+<div class="column1">
+<img src="barspink.gif"> </div>
+<div class="column1"> 
+<img src="barspink.gif"> </div>
+<div class="column1"> 
+<img src="barspink.gif"> </div>
+
+</body>
+</html>
